@@ -16,7 +16,7 @@ Product-Revenue Analysis
  I queried the the database using MICROSOFT SQL SERVER MANAGEMENT STUDIO to extract the information requested. 
  The extracted tables were also visualized accordingly. The visualization was done using MICROSOFT EXCEL. 
  
- The insights and reocommendations from this analysis can be found in the solution and reommmendation file. 
+ The insights and reocommendations from this analysis can be found in the solution and recommmendation file. 
  
  This project demonstrated the proficiency in:
  
